@@ -2,7 +2,6 @@
 """
 Created on Thu Jun 22 13:25:29 2023
 
-@author: Balaji Kukkapalli
 """
 
 import numpy as np
